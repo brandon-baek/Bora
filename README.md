@@ -1,7 +1,7 @@
 # Bora
 Bora models are Small Language Models developed and trained from scratch.
 
-# BoraKit
+## BoraKit
 
 BoraKit are the Jupyter Notebooks used to create and train the Bora models.
 
