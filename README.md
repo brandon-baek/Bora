@@ -6,7 +6,7 @@ This Jupyter Notebook contains the full model architecture and trainer for the B
 
 [The Bora 1 Model can be viewed here](https://huggingface.co/brandonbaek/Bora-1)
 
-# Bora 1 Model Description
+## Bora 1 Model Description
 Bora 1 is an SLM created from scratch, designed to be a chatbot.
 
 Using Kaggle's free GPU Quotas, this model was trained completely for free.
