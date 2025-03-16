@@ -10,4 +10,5 @@ BoraKits contain the full model architectures and trainers for the Bora models. 
 ## Bora Directory
 To view more in-depth details about each model, view the models on Hugging Face through the links below:
 
-- [Bora 1](https://huggingface.co/brandonbaek/Bora-1)
+| Model | Kit | HF Publish Date |
+|[Bora 1](https://huggingface.co/brandonbaek/Bora-1)| BoraKit 3 | 1/29/25 |
