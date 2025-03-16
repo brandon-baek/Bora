@@ -1,5 +1,9 @@
 # Bora
-Bora models are Small Language Models developed and trained from scratch.
+Bora models are Small Language Models developed and trained from scratch by Brandon Baek.
+
+They are trained using free GPU Quotas from services such as Kaggle, making the training process completely free.
+
+Bora models are a message to people that anyone at any status can achieve anything.
 
 ## BoraKit
 
