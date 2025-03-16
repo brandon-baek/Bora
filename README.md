@@ -4,5 +4,5 @@ Bora Anatomy contains all the Jupyter Notebooks used to create and train the Bor
 
 The Jupyter Notebooks contain the full model architectures and trainers for the Bora models. It also includes extra helpful features that were utilized during its creation.
 
-## Bora Models Links
+## Bora Model Links
 [Bora 1](https://huggingface.co/brandonbaek/Bora-1)
