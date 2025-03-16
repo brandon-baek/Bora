@@ -16,4 +16,4 @@ To view more in-depth details about each model, view the models on Hugging Face 
 
 | Model | Kit | HF Publish Date |
 | --- | --- | --- |
-|[Bora 1](https://huggingface.co/brandonbaek/Bora-1)| BoraKit 3 | 1/29/25 |
+|[Bora 1](https://huggingface.co/brandonbaek/Bora-1)| [BoraKit 3](BoraKit-3.ipynb) | 1/29/25 |
