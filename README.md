@@ -7,7 +7,7 @@ Bora models are a message to people that anyone at any status can achieve anythi
 
 ## BoraKit
 
-BoraKit are the Jupyter Notebooks used to create and train the Bora models.
+BoraKits are the Jupyter Notebooks used to create and train the Bora models.
 
 BoraKits contain the full model architectures and trainers for the Bora models. It also includes extra helpful features that were utilized during the model creation.
 
@@ -16,4 +16,4 @@ To view more in-depth details about each model, view the models on Hugging Face 
 
 | Model | Kit | HF Publish Date |
 | --- | --- | --- |
-|[Bora 1](https://huggingface.co/brandonbaek/Bora-1)| [BoraKit 3](BoraKit-3.ipynb) | 1/29/25 |
+|[Bora 1](https://huggingface.co/brandonbaek/Bora-1)| [BoraKit 3](BoraKits/BoraKit-3.ipynb) | 1/29/25 |
