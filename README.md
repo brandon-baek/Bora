@@ -1,8 +1,8 @@
 # Bora
 
-**Bora models can be found on Hugging Face, use the Bora Directory below**
+## Bora models can be found on Hugging Face, use the Bora Directory below
 
-
+## Description
 
 Bora models are Small Language Models developed and trained from scratch by Brandon Baek.
 
@@ -10,11 +10,13 @@ They are trained using free GPU Quotas from services such as Kaggle, making the 
 
 Bora models are a message to people that anyone at any status can achieve anything.
 
+
 ## BoraKit
 
 BoraKits are the Jupyter Notebooks used to create and train the Bora models.
 
 BoraKits contain the full model architectures and trainers for the Bora models. It also includes extra helpful features that were utilized during the model creation.
+
 
 ## Bora Directory
 #### View more in-depth details about each Bora model and the BoraKit utilized.
