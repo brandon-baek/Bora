@@ -1,6 +1,6 @@
 # Bora
 
-## Bora models can be found on Hugging Face, use the Bora Directory below
+#### Bora models can be found on Hugging Face, use the Bora Directory below
 
 ## Description
 
