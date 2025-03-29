@@ -1,4 +1,7 @@
 # Bora
+
+**Bora models can be found on Hugging Face, use the Bora Directory below**
+
 Bora models are Small Language Models developed and trained from scratch by Brandon Baek.
 
 They are trained using free GPU Quotas from services such as Kaggle, making the training process completely free.
