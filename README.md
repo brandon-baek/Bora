@@ -1,3 +1,5 @@
+![icon](https://github.com/user-attachments/assets/5e2ce0df-f96c-4f5a-bade-996993390bdb)
+
 # Bora
 
 #### Bora models can be found on Hugging Face, use the Bora Directory below
